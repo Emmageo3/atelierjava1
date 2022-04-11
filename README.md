@@ -7,4 +7,13 @@ Exercice 2:
 Exercice 3:
     -Écrivez un programme Java pour diviser deux nombres et affichez le résultat sur l’écran.
 
+Exercice 4:
+    Écrivez un programme Java qui prend deux nombres en entrée et affichez le produit de deux nombres.
+    Exemple:
+    Entrer le premier nombre: 2
+    Entrer le deuxième nombre: 3
+    Sortie prévue:
+    2 x 3 = 6
+
+
 
